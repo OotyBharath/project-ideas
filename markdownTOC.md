@@ -9,7 +9,7 @@
 
 
 
-# Generate ToC 
+# Generate To
 
 **Skills Required**:  HTML, CSS and Javascript and basic familiarity (especially headers) with the Markdown format. 
 
